@@ -1,0 +1,118 @@
+img{
+			height:auto;
+			width:200px;
+			border-radius: 100%;
+			border-style: solid;
+			border-color: red;
+			margin-left: 1100px;
+			margin-bottom: -200px;
+
+
+
+		}*/
+		h1{
+				
+		}
+		section{
+		 font-family: Century Gothic;
+		 font-weight: normal;
+		 font-size: 20;
+		}
+		#secondparagraph{
+		background-color: white;
+
+		}
+		body{
+			background-color: #303841;
+			margin: 0;
+
+		}
+		h1{
+			text-align: center;
+
+		}
+		#header1{
+			color:red ;
+			font-weight: bold;
+			font-family:Calibri;
+		}
+		#header2{
+			color: white;
+			font-family:Calibri;
+			margin-right: -400px;
+			margin-top: -60px;
+			padding-top: -5px;
+			margin-left: -175px;
+		}
+		#firstparagraph{
+			text-align: center;
+			font-family: Century Gothic;
+			font-size: 15px;
+			color: #72787E;
+		}
+		a{
+			color: #72787E;
+		}
+		.v1{
+		    border-left: 6px solid grey ;
+		    height: 638px;
+		    position: absolute;
+		    left: 50%;
+		    margin-left: -3px;
+		    top: 58%;
+		  
+	     }
+	     hr{
+	     	background-color: solid grey;
+	     }
+	     h3{
+	     	color: red;
+	     	font-size: 30px;
+	     	font-weight:bold;
+	     	font-family: Calibri;
+	     }
+	    #thirdparagraph{
+	    	font-family: Century Gothic;
+	    	font-size: 20px;
+	    	font-weight: normal;
+	    }
+	    #experience{
+	    	font-family: Century Gothic;
+	    	font-size: 20px;
+	    	font-weight: normal;
+	    	margin-left: 700px;
+	    	margin-top: -215px;
+	    }
+	    #attributes{
+	    	font-family: Century Gothic;
+	    	font-size: 20px;
+	    	font-weight: normal;
+	    }
+	    #education{
+	    	font-family: Century Gothic;
+	    	font-size: 20px;
+	    	font-weight: bold;
+	    	margin-left: 700px;
+	    	margin-top: -100px;
+	    }
+	    h2{
+	    font-family: Century Gothic;
+		font-weight: bold;
+		 
+	    }
+	    a{
+	    	text-decoration-line: none;
+       	    color: #72787E;
+
+	    }
+	    button{
+	    	border-radius: 45%;
+	    	background-color: palevioletred;
+	    	margin-left: 5%;
+	    	margin-top: -65px;
+	    	height: 50px;
+	    	width: 100px;
+	    	border: none;
+	    	text-shadow: 80px;
+	    	font-size: 20px;
+	    }
